@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1731850879 source:c:\course\semester-3\strukdata\sturkdata\modul-10\flight.cpp
+	"flight.h"
+
+1731850884 c:\course\semester-3\strukdata\sturkdata\modul-10\flight.h
+	<iostream>
+	<string>
+
+1731851658 source:c:\course\semester-3\strukdata\sturkdata\modul-10\main.cpp
+	"flight.h"
+	<iostream>
+

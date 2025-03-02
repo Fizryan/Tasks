@@ -1,0 +1,61 @@
+#include "Tree.h";
+
+adrNode newNode_103022300158(infotype x) {
+    adrNode p = new Node;
+    p->info = x;
+    p->left = nullptr;
+    p->right = nullptr;
+    return p;
+}
+
+void insertNode_103022300158(adrNode &root, adrNode p) {
+    if (root == nullptr) {
+        root = p;
+    } else if (p->info < root->info) {
+        insertNode_103022300158(root->left, p);
+    } else {
+        insertNode_103022300158(root->right, p);
+    }
+}
+
+adrNode findMin_103022300158(adrNode root) {
+    while (root->left != nullptr) {
+        root = root->left;
+    }
+    return root;
+}
+
+void deleteNode_103022300158(adrNode &root, adrNode &p) {
+    if (root == nullptr) return;
+
+    if (p->info < root->info) {
+        deleteNode_103022300158(root->left, p);
+    } else if (p->info > root->info) {
+        deleteNode_103022300158(root->right, p);
+    } else {
+        if (root->left == nullptr && root->right == nullptr) {
+            delete root;
+            root = nullptr;
+        } else if (root->left == nullptr) {
+            adrNode temp = root;
+            root = root->right;
+            delete temp;
+        } else if (root->right == nullptr) {
+            adrNode temp = root;
+            root = root->left;
+            delete temp;
+        } else {
+            adrNode temp = findMin_103022300158(root->right);
+            root->info = temp->info;
+            deleteNode_103022300158(root->right, temp);
+        }
+    }
+}
+
+void printInOrder_103022300158(adrNode root) {
+    if (root != nullptr) {
+        printInOrder_103022300158(root->left);
+        cout << root->info << " ";
+        printInOrder_103022300158(root->right);
+    }
+}

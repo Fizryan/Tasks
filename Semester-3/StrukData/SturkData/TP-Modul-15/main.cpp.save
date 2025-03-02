@@ -1,0 +1,25 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    adrNode root == nullptr;
+
+    int values[] == {8, 9, 12, 13, 15, 17, 7, 6, 4};
+    for (int value : values) {
+        adrNode p = newNode_103022300158(value);
+        insertNode_103022300158(root, p);
+    }
+    cout << "BST: ";
+    printInOrder_103022300158(root);
+    cout << endl;
+    
+    for (int value : values) {
+        adrNode temp = newNode_103022300158(value);
+        deleteNode_103022300158(root, temp);
+        cout << ""
+    }
+    
+    return 0;
+}

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1731677914 source:c:\course\semester-3\strukdata\sturkdata\arduino\main.cpp
+	<iostream>
+	"Sensor.h"
+	<thread>
+	<chrono>
+
+1731677935 c:\course\semester-3\strukdata\sturkdata\arduino\sensor.h
+
+1731677943 source:c:\course\semester-3\strukdata\sturkdata\arduino\sensor.cpp
+	"Sensor.h"
+	<iostream>
+	<thread>
+	<chrono>
+

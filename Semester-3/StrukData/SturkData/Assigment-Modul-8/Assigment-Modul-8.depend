@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1731002223 source:c:\course\semester-3\strukdata\sturkdata\assigment-modul-8\main.cpp
+	"queue_vaksinasi.h"
+	<iostream>
+
+1730996362 c:\course\semester-3\strukdata\sturkdata\assigment-modul-8\queue_vaksinasi.h
+	<iostream>
+	<string>
+
+1731000554 source:c:\course\semester-3\strukdata\sturkdata\assigment-modul-8\queue_vaksinasi.cpp
+	"queue_vaksinasi.h"
+	<iostream>
+

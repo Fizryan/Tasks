@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1734887428 source:c:\course\semester-3\strukdata\sturkdata\tp-modul-15\main.cpp
+	<iostream>
+	"Tree.h"
+
+1734886667 c:\course\semester-3\strukdata\sturkdata\tp-modul-15\tree.h
+	<iostream>
+
+1734887371 source:c:\course\semester-3\strukdata\sturkdata\tp-modul-15\tree.cpp
+	"Tree.h"
+

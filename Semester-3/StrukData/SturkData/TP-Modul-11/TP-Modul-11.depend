@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1732472143 source:c:\course\semester-3\strukdata\sturkdata\tp-modul-11\graph.cpp
+	"Graph.h"
+
+1732472365 c:\course\semester-3\strukdata\sturkdata\tp-modul-11\graph.h
+	<iostream>
+
+1732472086 source:c:\course\semester-3\strukdata\sturkdata\tp-modul-11\main.cpp
+	<iostream>
+	"Graph.h"
+
