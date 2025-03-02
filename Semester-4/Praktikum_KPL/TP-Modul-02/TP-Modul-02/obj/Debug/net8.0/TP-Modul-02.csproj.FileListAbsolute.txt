@@ -1,0 +1,14 @@
+C:\VisualStudio\TP-Modul-02\TP-Modul-02\bin\Debug\net8.0\TP-Modul-02.exe
+C:\VisualStudio\TP-Modul-02\TP-Modul-02\bin\Debug\net8.0\TP-Modul-02.deps.json
+C:\VisualStudio\TP-Modul-02\TP-Modul-02\bin\Debug\net8.0\TP-Modul-02.runtimeconfig.json
+C:\VisualStudio\TP-Modul-02\TP-Modul-02\bin\Debug\net8.0\TP-Modul-02.dll
+C:\VisualStudio\TP-Modul-02\TP-Modul-02\bin\Debug\net8.0\TP-Modul-02.pdb
+C:\VisualStudio\TP-Modul-02\TP-Modul-02\obj\Debug\net8.0\TP-Modul-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio\TP-Modul-02\TP-Modul-02\obj\Debug\net8.0\TP-Modul-02.AssemblyInfoInputs.cache
+C:\VisualStudio\TP-Modul-02\TP-Modul-02\obj\Debug\net8.0\TP-Modul-02.AssemblyInfo.cs
+C:\VisualStudio\TP-Modul-02\TP-Modul-02\obj\Debug\net8.0\TP-Modul-02.csproj.CoreCompileInputs.cache
+C:\VisualStudio\TP-Modul-02\TP-Modul-02\obj\Debug\net8.0\TP-Modul-02.dll
+C:\VisualStudio\TP-Modul-02\TP-Modul-02\obj\Debug\net8.0\refint\TP-Modul-02.dll
+C:\VisualStudio\TP-Modul-02\TP-Modul-02\obj\Debug\net8.0\TP-Modul-02.pdb
+C:\VisualStudio\TP-Modul-02\TP-Modul-02\obj\Debug\net8.0\TP-Modul-02.genruntimeconfig.cache
+C:\VisualStudio\TP-Modul-02\TP-Modul-02\obj\Debug\net8.0\ref\TP-Modul-02.dll
