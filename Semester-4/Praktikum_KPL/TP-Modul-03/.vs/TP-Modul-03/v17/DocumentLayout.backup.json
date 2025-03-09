@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Hafizryandin HM\\Documents\\GitHub\\Tasks\\Semester-4\\Praktikum_KPL\\TP-Modul-03\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80E65D05-55F3-4F40-98C2-1F0B9696C94E}|TP-Modul-03\\TP-Modul-03.csproj|c:\\users\\hafizryandin hm\\documents\\github\\tasks\\semester-4\\praktikum_kpl\\tp-modul-03\\tp-modul-03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E65D05-55F3-4F40-98C2-1F0B9696C94E}|TP-Modul-03\\TP-Modul-03.csproj|solutionrelative:tp-modul-03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E65D05-55F3-4F40-98C2-1F0B9696C94E}|TP-Modul-03\\TP-Modul-03.csproj|C:\\Users\\Hafizryandin HM\\Documents\\GitHub\\Tasks\\Semester-4\\Praktikum_KPL\\TP-Modul-03\\tp-modul-03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{80E65D05-55F3-4F40-98C2-1F0B9696C94E}|TP-Modul-03\\TP-Modul-03.csproj|solutionrelative:tp-modul-03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Hafizryandin HM\\Documents\\GitHub\\Tasks\\Semester-4\\Praktikum_KPL\\TP-Modul-03\\TP-Modul-03\\Form1.cs",
+              "RelativeDocumentMoniker": "TP-Modul-03\\Form1.cs",
+              "ToolTip": "C:\\Users\\Hafizryandin HM\\Documents\\GitHub\\Tasks\\Semester-4\\Praktikum_KPL\\TP-Modul-03\\TP-Modul-03\\Form1.cs",
+              "RelativeToolTip": "TP-Modul-03\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:18:35.239Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hafizryandin HM\\Documents\\GitHub\\Tasks\\Semester-4\\Praktikum_KPL\\TP-Modul-03\\TP-Modul-03\\Form1.cs",
+              "RelativeDocumentMoniker": "TP-Modul-03\\Form1.cs",
+              "ToolTip": "C:\\Users\\Hafizryandin HM\\Documents\\GitHub\\Tasks\\Semester-4\\Praktikum_KPL\\TP-Modul-03\\TP-Modul-03\\Form1.cs [Design]",
+              "RelativeToolTip": "TP-Modul-03\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:18:25.04Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
