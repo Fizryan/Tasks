@@ -1,13 +1,14 @@
 ﻿using System;
-
 class Program
 {
     static void Main()
     {
-        Console.Write("Masukkan nama kelurahan: ");             // Menampilkan pesan input ke pengguna
-        string kelurahan = Console.ReadLine();                  // Menerima input kelurahan dari pengguna
+        DoorMachine pintu = new DoorMachine();                          // Membuat objek dari kelas DoorMachine, otomatis terkunci
 
-        string kodePos = KodePos.GetKodePos(kelurahan);         // Memanggil method untuk mendapatkan kode pos
-        Console.WriteLine($"Kode Pos {kelurahan}: {kodePos}");  // Menampilkan kode pos dari kelurahan yang dimasukkan
+        Console.WriteLine("Menekan tombol untuk membuka pintu...");     // Menampilkan proses membuka pintu
+        pintu.BukaPintu();                                              // Memanggil method untuk membuka pintu
+
+        Console.WriteLine("Menekan tombol untuk mengunci pintu...");    // Menampilkan proses mengunci pintu
+        pintu.KunciPintu();                                             // Memanggil method untuk mengunci pintu kembali
     }
 }

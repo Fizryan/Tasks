@@ -1,0 +1,15 @@
+C:\Users\Hafizryandin HM\Documents\GitHub\Tasks\Semester-4\Praktikum_KPL\TPmod4_103022300158\TPmod4_103022300158\bin\Debug\net8.0\TPmod4_103022300158.exe
+C:\Users\Hafizryandin HM\Documents\GitHub\Tasks\Semester-4\Praktikum_KPL\TPmod4_103022300158\TPmod4_103022300158\bin\Debug\net8.0\TPmod4_103022300158.deps.json
+C:\Users\Hafizryandin HM\Documents\GitHub\Tasks\Semester-4\Praktikum_KPL\TPmod4_103022300158\TPmod4_103022300158\bin\Debug\net8.0\TPmod4_103022300158.runtimeconfig.json
+C:\Users\Hafizryandin HM\Documents\GitHub\Tasks\Semester-4\Praktikum_KPL\TPmod4_103022300158\TPmod4_103022300158\bin\Debug\net8.0\TPmod4_103022300158.dll
+C:\Users\Hafizryandin HM\Documents\GitHub\Tasks\Semester-4\Praktikum_KPL\TPmod4_103022300158\TPmod4_103022300158\bin\Debug\net8.0\TPmod4_103022300158.pdb
+C:\Users\Hafizryandin HM\Documents\GitHub\Tasks\Semester-4\Praktikum_KPL\TPmod4_103022300158\TPmod4_103022300158\obj\Debug\net8.0\TPmod4_103022300158.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hafizryandin HM\Documents\GitHub\Tasks\Semester-4\Praktikum_KPL\TPmod4_103022300158\TPmod4_103022300158\obj\Debug\net8.0\TPmod4_103022300158.AssemblyInfoInputs.cache
+C:\Users\Hafizryandin HM\Documents\GitHub\Tasks\Semester-4\Praktikum_KPL\TPmod4_103022300158\TPmod4_103022300158\obj\Debug\net8.0\TPmod4_103022300158.AssemblyInfo.cs
+C:\Users\Hafizryandin HM\Documents\GitHub\Tasks\Semester-4\Praktikum_KPL\TPmod4_103022300158\TPmod4_103022300158\obj\Debug\net8.0\TPmod4_103022300158.csproj.CoreCompileInputs.cache
+C:\Users\Hafizryandin HM\Documents\GitHub\Tasks\Semester-4\Praktikum_KPL\TPmod4_103022300158\TPmod4_103022300158\obj\Debug\net8.0\TPmod4_103022300158.sourcelink.json
+C:\Users\Hafizryandin HM\Documents\GitHub\Tasks\Semester-4\Praktikum_KPL\TPmod4_103022300158\TPmod4_103022300158\obj\Debug\net8.0\TPmod4_103022300158.dll
+C:\Users\Hafizryandin HM\Documents\GitHub\Tasks\Semester-4\Praktikum_KPL\TPmod4_103022300158\TPmod4_103022300158\obj\Debug\net8.0\refint\TPmod4_103022300158.dll
+C:\Users\Hafizryandin HM\Documents\GitHub\Tasks\Semester-4\Praktikum_KPL\TPmod4_103022300158\TPmod4_103022300158\obj\Debug\net8.0\TPmod4_103022300158.pdb
+C:\Users\Hafizryandin HM\Documents\GitHub\Tasks\Semester-4\Praktikum_KPL\TPmod4_103022300158\TPmod4_103022300158\obj\Debug\net8.0\TPmod4_103022300158.genruntimeconfig.cache
+C:\Users\Hafizryandin HM\Documents\GitHub\Tasks\Semester-4\Praktikum_KPL\TPmod4_103022300158\TPmod4_103022300158\obj\Debug\net8.0\ref\TPmod4_103022300158.dll

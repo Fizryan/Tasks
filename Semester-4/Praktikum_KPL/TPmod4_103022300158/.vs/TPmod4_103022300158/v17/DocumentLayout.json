@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Hafizryandin HM\\Documents\\GitHub\\Tasks\\Semester-4\\Praktikum_KPL\\TPmod4_103022300158\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{02B1AEC6-A1F8-40E9-A317-5D3FFBB5BBB0}|TPmod4_103022300158\\TPmod4_103022300158.csproj|c:\\users\\hafizryandin hm\\documents\\github\\tasks\\semester-4\\praktikum_kpl\\tpmod4_103022300158\\tpmod4_103022300158\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B1AEC6-A1F8-40E9-A317-5D3FFBB5BBB0}|TPmod4_103022300158\\TPmod4_103022300158.csproj|solutionrelative:tpmod4_103022300158\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{02B1AEC6-A1F8-40E9-A317-5D3FFBB5BBB0}|TPmod4_103022300158\\TPmod4_103022300158.csproj|c:\\users\\hafizryandin hm\\documents\\github\\tasks\\semester-4\\praktikum_kpl\\tpmod4_103022300158\\tpmod4_103022300158\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02B1AEC6-A1F8-40E9-A317-5D3FFBB5BBB0}|TPmod4_103022300158\\TPmod4_103022300158.csproj|solutionrelative:tpmod4_103022300158\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "DoorMachine.cs",
+              "DocumentMoniker": "C:\\Users\\Hafizryandin HM\\Documents\\GitHub\\Tasks\\Semester-4\\Praktikum_KPL\\TPmod4_103022300158\\TPmod4_103022300158\\DoorMachine.cs",
+              "RelativeDocumentMoniker": "TPmod4_103022300158\\DoorMachine.cs",
+              "ToolTip": "C:\\Users\\Hafizryandin HM\\Documents\\GitHub\\Tasks\\Semester-4\\Praktikum_KPL\\TPmod4_103022300158\\TPmod4_103022300158\\DoorMachine.cs",
+              "RelativeToolTip": "TPmod4_103022300158\\DoorMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T19:45:08.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "KodePos.cs",
               "DocumentMoniker": "C:\\Users\\Hafizryandin HM\\Documents\\GitHub\\Tasks\\Semester-4\\Praktikum_KPL\\TPmod4_103022300158\\TPmod4_103022300158\\KodePos.cs",
               "RelativeDocumentMoniker": "TPmod4_103022300158\\KodePos.cs",
@@ -35,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hafizryandin HM\\Documents\\GitHub\\Tasks\\Semester-4\\Praktikum_KPL\\TPmod4_103022300158\\TPmod4_103022300158\\Program.cs",
               "RelativeDocumentMoniker": "TPmod4_103022300158\\Program.cs",
               "ToolTip": "C:\\Users\\Hafizryandin HM\\Documents\\GitHub\\Tasks\\Semester-4\\Praktikum_KPL\\TPmod4_103022300158\\TPmod4_103022300158\\Program.cs",
               "RelativeToolTip": "TPmod4_103022300158\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAB4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T19:38:13.243Z",
               "EditorCaption": ""
